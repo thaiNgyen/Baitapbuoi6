@@ -1,0 +1,17 @@
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\obj\Debug\bai6.csproj.AssemblyReference.cache
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\obj\Debug\bai6.frmQLSV.resources
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\obj\Debug\bai6.Properties.Resources.resources
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\obj\Debug\bai6.csproj.GenerateResource.cache
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\obj\Debug\bai6.csproj.CoreCompileInputs.cache
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\bin\Debug\DESKTOP-VQNHMGJ.mdf
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\bin\Debug\DESKTOP-VQNHMGJ_log.ldf
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\bin\Debug\bai6.exe.config
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\bin\Debug\bai6.exe
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\bin\Debug\bai6.pdb
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\bin\Debug\EntityFramework.dll
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\bin\Debug\EntityFramework.xml
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\obj\Debug\bai6.csproj.Up2Date
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\obj\Debug\bai6.exe
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi6\bai6\bai6\obj\Debug\bai6.pdb
